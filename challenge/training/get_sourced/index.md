@@ -2,13 +2,13 @@
 
 
 ```markdown
-write up for Training: Get Sourced (Training)
+write up for Training: Stegano I (Training, Stegano)
 
 # visit http://www.wechall.net/challenge/training/get_sourced/index.php
 # view source page and get bottom of the source page
 # you will get the solution
 
-`<!-- You are looking for this password: html_sourcecode --> `
+Look what the hex-edit revealed: passwd:steganoI
 
 ```
 
