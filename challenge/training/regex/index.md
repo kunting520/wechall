@@ -18,10 +18,12 @@ write up for Training: Regex (Training, Regex)
 # Regex Training Challenge (Level 3)
 # Your pattern shall match all images with the name wechall.ext or wechall4.ext and a valid image extension
 # ?: will get non capturing group
+
 `/^wechall4?\.(?:gif|tiff|png|jpg|bmp)$/`
 
 # Regex Training Challenge (Level 4)
 # capture the filename, without extension
+
 `/^(wechall4?)\.(?:gif|tiff|png|jpg|bmp)$/`
 
 # you will pass the challenge
