@@ -1,6 +1,6 @@
 ## Welcome to wechall writeup Pages
 
-1 [Training: Get Sourced](https://kunting520.github.io/wechall/challenge/training/get_sourced/index.md) solved by Lenka
+1 [Training: Get Sourced](https://kunting520.github.io/wechall/get_sourced.md) solved by Lenka
 
 2 [Training: Stegano I ](https://kunting520.github.io/wechall/challenge/training/stegano1/index.md) solved by Lenka
 
