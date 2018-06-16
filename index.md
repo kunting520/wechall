@@ -1,6 +1,4 @@
-## Welcome to wechall writeup Pages
-
-visit https://kunting520.github.io/wechall/
+## Welcome to wechall writeup Pages[](https://kunting520.github.io/wechall/)
 
 1 [Training: Get Sourced](https://kunting520.github.io/wechall/challenge/training/get_sourced) solved by Lenka
 
